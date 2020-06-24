@@ -37,3 +37,35 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added 
 -Add todolist
 -Add Photos on Home screen
+
+## [1.0.3] - 2020-06-15
+
+### Changes
+
+-
+
+### Added 
+-Text in Photos
+-Add photos on Photos screen
+
+## [1.0.4] - 2020-06-18
+
+### Changes
+
+-
+
+### Added 
+-Add gif on Home screen
+
+## [1.0.4] - 2020-06-24
+
+### Changes
+
+-Splash screen
+-Readme
+
+### Added 
+
+-Add new photo on splash screen 
+
+
