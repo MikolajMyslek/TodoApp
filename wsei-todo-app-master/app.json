@@ -13,7 +13,7 @@
     "orientation": "portrait",
     "icon": "./src/assets/logomin.png",
     "splash": {
-      "image": "./src/assets/pobrane.jpg",
+      "image": "./src/assets/milo.png",
       "resizeMode": "contain",
       "backgroundColor": "#1f1f1f"
     },
